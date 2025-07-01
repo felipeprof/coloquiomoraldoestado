@@ -1,0 +1,212 @@
+[
+  {
+    "nome": "Guy Bajoit",
+    "instituicao": "UCLouvain",
+    "bio": "Professor Doutor Emérito de Sociologia na Université Catholique de Louvain (Bélgica) e pesquisador do Centro de Investigação Interdisciplinar Democracia, Instituição e Subjetividade (CRIDIS).",
+    "palestra": "Conferência de Abertura: \"La democracia atrapada por estados inciviles? Como renovar las concepciones del Desarrollo, de la Democracia y del Socialismo?\"",
+    "foto": "/palestrantes/guy_bajoit.png"
+  },
+  {
+    "nome": "Gilmar Antônio Bedin",
+    "instituicao": "UNIJUÍ",
+    "bio": "Professor Doutor em Direito. Atua na graduação em Direito e cursos de mestrado e doutorado em direitos humanos da Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUÍ).",
+    "palestra": "\"A construção da ordem política moderna e a democracia: o papel fundante da utopia do conselho\"",
+    "foto": "/palestrantes/gilmar_antonio_bedin.png"
+  },
+  {
+    "nome": "Laurindo Mekie Pereira",
+    "instituicao": "Unimontes",
+    "bio": "Professor Doutor em História. Atua na graduação em História e Programas de Pós-Graduação em História e de Desenvolvimento Social, da Unimontes.",
+    "palestra": "\"A política fundamentada na confiança: hegemonias e contra-hegemonias\"",
+    "foto": "/palestrantes/laurindo_mekie_pereira.png"
+  },
+  {
+    "nome": "Gilmar Ribeiro dos Santos",
+    "instituicao": "Unimontes",
+    "bio": "Professor Doutor em Educação. É vinculado ao Departamento de Política e Ciências Sociais (DPCS) e ao Programa de Pós-Graduação em Desenvolvimento Social (PPGDS) da Unimontes.",
+    "palestra": "\"A crise do Estado liberal no enfrentamento das desigualdades sociais\"",
+    "foto": "/palestrantes/gilmar_ribeiro_dos_santos.png"
+  },
+  {
+    "nome": "Antônio Dimas Cardoso",
+    "instituicao": "Unimontes",
+    "bio": "Professor Doutor em Sociologia, vinculado ao Departamento de Política e Ciências Sociais (DPCS) e ao Programa de Pós-Graduação em Desenvolvimento Social (PPGDS) da Unimontes.",
+    "palestra": "\"A moral do Estado sob a dimensão da luta por reconhecimento\"",
+    "foto": "/palestrantes/antonio_dimas_cardoso.png"
+  },
+  {
+    "nome": "Lindomar Wessler Boneti",
+    "instituicao": "PUC-PR",
+    "bio": "Professor Doutor em Sociologia, com atuação no curso de Ciências Sociais; Programa de Pós-Graduação em Educação; e Programa de Pós-Graduação em Direitos Humanos e Políticas Públicas, da Pontifícia Universidade Católica do Paraná.",
+    "palestra": "\"O dever moral como retórica argumentativa na disputa pela elaboração e implementação de uma política pública\"",
+    "foto": "/palestrantes/lindomar_wessler_boneti.png"
+  },
+  {
+    "nome": "Vivianne Châtel",
+    "instituicao": "Universidade de Fribourg",
+    "bio": "Professora Doutora em Sociologia da Université de Fribourg (Suíça), Faculté des Lettres et des Sciences Humaines, Département de Travail Social, Politique social et Développement Global.",
+    "palestra": "\"La morale de l'Etat: une boussole en dérive?\"",
+    "foto": "/palestrantes/vivianne_chatel.png"
+  },
+  {
+    "nome": "Ricardo Magalhães Dias Cardozo",
+    "instituicao": "INEP",
+    "bio": "Mestre em Educação. Atualmente é Diretor de Avaliação da Educação Profissional e Tecnológica do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira/INEP.",
+    "palestra": "\"O papel do Estado na avaliação e regulação da qualidade educacional: moralidade, equidade e impacto nas políticas públicas\"",
+    "foto": "/palestrantes/ricardo_magalhaes_dias_cardozo.png"
+  },
+  {
+    "nome": "Manuel Lisboa",
+    "instituicao": "Universidade Nova de Lisboa",
+    "bio": "Professor Doutor em Sociologia na NOVA/FCSH, Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa; CICS.NOVA, Centro Interdisciplinar de Ciências Sociais, NOVA/FCSH.",
+    "palestra": "\"A metamorfose do Estado Social: As políticas públicas sobre violência doméstica e de gênero em Portugal\"",
+    "foto": "/palestrantes/manuel_lisboa.png"
+  },
+  {
+    "nome": "Michel Messu",
+    "instituicao": "Université de Nantes - França",
+    "bio": "Professor Doutor em Sociologia na Universidade de Paris -- Campus Saint Germain/PHILéPOL -- Centre de Philosophie, d'epistemologie et de Politique.",
+    "palestra": "\"Os valores do Estado de direito equivocados: dos valores universais aos valores conflitantes de comunidades emergentes\"",
+    "foto": "/palestrantes/michel_messu.png"
+  },
+  {
+    "nome": "Jordi Estivill",
+    "instituicao": "Universidade de Barcelona",
+    "bio": "Professor Doutor em Sociologia, vinculado ao CICS.NOVA, Centro Interdisciplinar de Ciências Sociais, NOVA FCSH, Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa (Portugal).",
+    "palestra": "\"A montanha e o rio: as relações entre Estado e a economia social e solidária\"",
+    "foto": "/palestrantes/jordi_estivill.png"
+  },
+  {
+    "nome": "Maria Railma Alves",
+    "instituicao": "Unimontes",
+    "bio": "Professora Doutora em Ciências Sociais do Departamento de Política e Ciências Sociais (DPCS) e do Programa de Pós-Graduação em Desenvolvimento Social (PPGDS) da Unimontes. É coordenadora do Observatório Regional de Relações Etnico-Raciais no Norte de Minas Gerais.",
+    "palestra": "\"Lutas e valores contra as desigualdades e discriminações étnico-raciais sob a lente do Observatório Regional no Norte de Minas Gerais\"",
+    "foto": "/palestrantes/maria_railma_alves.png"
+  },
+  {
+    "nome": "Richardson Xavier Brant",
+    "instituicao": "Unimontes/TJMG",
+    "bio": "Professor Doutor em Desenvolvimento Social, vinculado ao Departamento de Direito e do Programa de Pós-Graduação em Desenvolvimento Social da Unimontes. Atualmente é Juiz de Direito de entrância especial, no Tribunal de Justiça do Estado de Minas Gerais e Juiz titular da 2ª Vara de Fazenda Pública Municipal da Comarca de Belo Horizonte.",
+    "palestra": "\"Intervenção social em rede como meio de regulação entre a função normativa dos instrumentos legais e os valores de comunidades\"",
+    "foto": "/palestrantes/richardson_xavier_brant.png"
+  },
+  {
+    "nome": "Casimiro Balsa",
+    "instituicao": "Universidade Nova de Lisboa",
+    "bio": "Professor Doutor em Sociologia, vinculado ao CICS.NOVA, Centro Interdisciplinar de Ciências Sociais, NOVA FCSH, Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa (Portugal).",
+    "palestra": "\"O estado da moral e a moral do Estado – Análise das representações e dos referenciais políticos sobre o consumo de substâncias psicoativas em Portugal\"",
+    "foto": "/palestrantes/casimiro_balsa.png"
+  },
+  {
+    "nome": "Geraldo Reis",
+    "instituicao": "Unimontes",
+    "bio": "Professor Doutor em Geografia -- Tratamento da Informação Espacial. É vinculado ao Departamento de Economia e Programa de Pós-Graduação em Desenvolvimento Social da Unimontes.",
+    "palestra": "\"A importância da política de assistência social para os municípios de pequeno porte do Norte de Minas Gerais\"",
+    "foto": "/palestrantes/geraldo_reis.png"
+  },
+  {
+    "nome": "Joaquina Nobre da Silva",
+    "instituicao": "IFNMG",
+    "bio": "Professora Doutora em Estudos Linguísticos e atualmente é Reitora do Instituto Federal do Norte de Minas/IFNMG.",
+    "palestra": "\"Estratégias e ações de promoção da justiça social em municípios do Norte de Minas Gerais/Brasil sob atuação do IFNMG\"",
+    "foto": "/palestrantes/joaquina_nobre_da_silva.png"
+  },
+  {
+    "nome": "Hellen Vivian Moreira dos Anjos",
+    "instituicao": "IFNMG",
+    "bio": "Professora Doutora em Desenvolvimento Social, vinculada ao Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais/Campus Janaúba. Coordena o Curso de Licenciatura em Educação Escolar Quilombola/PARFOR Equidade, financiada pela Capes em parceria com o IFNMG.",
+    "palestra": "\"Atuação docente nas comunidades sob a égide das políticas de promoção da Equidade\"",
+    "foto": "/palestrantes/helen_vivian_moreira_dos_anjos.png"
+  },
+  {
+    "nome": "Rogério Roque Amaro",
+    "instituicao": "IUL",
+    "bio": "Professor Doutor em Economia, associado jubilado do Instituto Universitário de Lisboa/IUL, no Departamento de Economia. É membro fundador da Rede Portuguesa de Economia Solidária (RedPES) e consultor do PNUD, da Organização Internacional do Trabalho.",
+    "palestra": "\"Dos valores do Estado Social à dimensão ética da Governança Partilhada e Participativa do século XXI\"",
+    "foto": "/palestrantes/rogerio_roque_amargo.png"
+  },
+  {
+    "nome": "Marc-Henry Soulet",
+    "instituicao": "Universidade de Fribourg",
+    "bio": "Professor Doutor em Sociologia na Université de Fribourg (Suíça), Faculté des Lettres et des Sciences Humaines, Département de Travail Social, Politique social et Développement Global, Chaire de Travail Social et Politiques Sociales.",
+    "palestra": "Conferência de Encerramento: \"La Morale de l'Etat est-elle morale?\"",
+    "foto": "/palestrantes/marc-henry_soulet.png"
+  },
+  {
+    "nome": "Leninha Alves de Souza",
+    "instituicao": "ALMG",
+    "bio": "Deputada Estadual em Minas Gerais (PT). É graduada em Ciências Biológicas e mestre em Desenvolvimento Social pela Universidade Estadual de Montes Claros (Unimontes). Foi professora e sindicalista.",
+    "palestra": "Democracia e políticas públicas na prática parlamentar",
+    "foto": "/palestrantes/leninha_alves_de_souza.jpg"
+  },
+  {
+    "nome": "Rogério Medeiros Garcia de Lima",
+    "instituicao": "TJMG",
+    "bio": "Desembargador no Tribunal de Justiça de Minas Gerais (TJMG). Foi membro do Ministério Público e Juiz de Direito. É bacharel em Direito pela Universidade Federal de Minas Gerais (UFMG).",
+    "palestra": "Moralidade na atuação dos Poderes Públicos",
+    "foto": "/palestrantes/rogério_medeiros.png"
+  },
+  {
+    "nome": "Lailson Braga Baeta Neves",
+    "instituicao": "TJMG",
+    "bio": "Desembargador no Tribunal de Justiça de Minas Gerais (TJMG). É doutor em Direito pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas) e professor.",
+    "palestra": "Garantia de direitos fundamentais e controle da Administração Pública na execução de políticas públicas",
+    "foto": "/palestrantes/lailson_braga_baeta_neves.png"
+  },
+{
+    "nome": "Ana Glinfskoi Thé",
+    "instituicao": "Unimontes",
+    "bio": "Professora no PPGDS‑UNIMONTES. Licenciatura e bacharelado em Ciências Biológicas pela UFSCAR, mestrado e doutorado em Ecologia e Recursos Naturais pela mesma instituição. Atuação em etnoecologia, pesca artesanal, biodiversidade, conservação e educação ambiental. Vice‑presidente da Sociedade Brasileira de Etnobiologia e Etnoecologia e diretora da ADUNIMONTES.",
+    "Moderador(a)": "Tema 1: As mudanças, na relação aos valores, do Estado Social e do Estado de Direito",
+    "foto": "/palestrantes/ana_glinfskoi_thé.jpg"
+  },
+  {
+    "nome": "Elton Dias Xavier",
+    "instituicao": "Unimontes",
+    "bio": "Graduado em Letras e Direito pela UNIMONTES. Doutor em Direito e em Ciências Sociais. Realizou pós‑doutorado na Faculdade de Letras da Universidade do Porto. Professor titular da UNIMONTES e ex‑coordenador do PPGDS, atua em Direito Público e Ciências Sociais.",
+    "Moderador(a)": "Tema 2: A genealogia da questão moral na tradição dos estados modernos",
+    "foto": "/palestrantes/elton_dias_xavier.png"
+  },
+  {
+    "nome": "Maria da Luz Alves Ferreira",
+    "instituicao": "Unimontes",
+    "bio": "Graduada em Ciências Sociais e licenciada em Sociologia pela UNIMONTES. Mestre em Sociologia pela UnB e doutora em Ciências Humanas – Sociologia e Política pela UFMG. Professora no Departamento de Política e Ciências Sociais da UNIMONTES. Pesquisa gênero, trabalho informal, migração e participação social.",
+    "Moderador(a)": "Tema 3: A responsabilidade do Estado entre a ação política e o dever moral",
+    "foto": "/palestrantes/maria_da_luz_alves_ferreira.png"
+  },
+  {
+    "nome": "Christine Veloso Barbosa Araújo",
+    "instituicao": "Unimontes",
+    "bio": "Doutora e mestre em Desenvolvimento Social pelo PPGDS‑UNIMONTES. Defendeu tese comparativa sobre avaliação da educação superior no Brasil e Portugal. Realizou estágio doutoral no CICS.NOVA‑Lisboa com apoio da CAPES. Atua em políticas públicas e avaliação em educação superior.",
+    "Moderador(a)": "Tema 4: A relação aos valores dos modelos de gestão econômicos e sociais",
+    "foto": "/palestrantes/christine_veloso_barbosa_araújo.png"
+  },
+  {
+    "nome": "Maria Alice Silveira",
+    "instituicao": "Unimontes",
+    "bio": "Professora do Departamento de Política e Ciências Sociais da UNIMONTES e pós‑doutoranda no CePPI‑UFMG. Doutora e mestre em Ciência Política pela UFMG, com período sanduíche em Coimbra. Pesquisa movimentos sociais, ativismo, internet, emoções e democracia digital.",
+    "Moderador(a)": "Tema 5: Os dilemas morais dos níveis de execução das políticas públicas",
+    "foto": "/palestrantes/maria_alice_silveira.png"
+  },
+  {
+    "nome": "Marcos Esdras Leite",
+    "instituicao": "Unimontes",
+    "bio": "Professor dos cursos de Geociências e Geografia da UNIMONTES. Graduado em Geografia pela UNIMONTES, mestre e doutor em Geografia pela UFU. Especialista em geotecnologias, sensoriamento remoto e cartografia urbana, com pesquisa sobre uso do solo e dinâmica urbana.",
+    "Moderador(a)": "Tema 6: Política educacional e pedagogia para uma intervenção centrada em comunidades locais e interioranas",
+    "foto": "/palestrantes/marcos_esdras_leite.png"
+  },
+  {
+    "nome": "Narciso Ferreira dos Santos Neto",
+    "instituicao": "Unimontes",
+    "bio": "Professor do Departamento de Administração da UNIMONTES. Mestre em Engenharia de Transportes pelo IME e doutor na área pela COPPE/UFRJ. Atua em pesquisa e ensino sobre logística, sistemas de transporte, SIG e simulação. Coordena o laboratório de transportes da UNIMONTES.",
+    "Moderador(a)": "Tema 7: Políticas públicas sob proposição e julgamento do Parlamento e Poder Judiciário em Minas Gerais",
+    "foto": "/palestrantes/narciso_santos_neto.jpg"
+  },
+  {
+    "nome": "Cláudia de Jesus Maia",
+    "instituicao": "Unimontes",
+    "bio": "Professora do Departamento de História da UNIMONTES. Doutora em História pela UnB; autora de “A Reinvenção da Solteirona”; coordenadora do Grupo de Pesquisa Gênero e Violência e do Observatório Norte‑Mineiro de Violência de Gênero; colaboradora de mestrado em Lisboa; atuou como coordenadora adjunta de programas acadêmicos da Capes/MEC e secretariou a ANPUH‑MG.",
+    "Moderador(a)": "Tema 7: Políticas públicas sob proposição e julgamento do Parlamento e Poder Judiciário em Minas Gerais",
+    "foto": "/palestrantes/claudia_maia.png"
+  }
+]
