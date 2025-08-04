@@ -1,8 +1,8 @@
 {
   "dias": [
     {
-      "id": "dia1",
-      "data": "2025-08-12",
+      "id": "day1",
+      "nome": "Dia 12",
       "programacao": [
         {
           "horario": "8h30-19h",
@@ -22,33 +22,51 @@
         },
         {
           "horario": "16h-16h30",
-          "titulo": "Sessão de Abertura",
+          "titulo": "Sessão de abertura",
           "participantes": [
-            { "nome": "Dalton Caldeira Rocha", "cargo": "Vice-Reitor da Unimontes" },
-            { "nome": "Ana Glinfskoi Thé; Antônio Dimas Cardoso", "cargo": "PPGDS" },
-            { "nome": "Joaquina Nobre da Silva", "cargo": "Reitora do IFNMG" },
-            { "nome": "Casimiro Balsa", "cargo": "CICS.NOVA, NOVA, FCSH e RIIDE" },
-            { "nome": "Marc-Henry Soulet", "cargo": "Universidade de Fribourg" }
+            {
+              "nome": "Dalton Caldeira Rocha",
+              "funcao": "Vice-Reitor da Unimontes"
+            },
+            {
+              "nome": "Ana Glinfskoi Thé; Antônio Dimas Cardoso",
+              "funcao": "PPGDS"
+            },
+            {
+              "nome": "Joaquina Nobre da Silva",
+              "funcao": "Reitora do IFNMG"
+            },
+            {
+              "nome": "Casimiro Balsa",
+              "funcao": "CICS.NOVA, NOVA, FCSH e RIIDE"
+            },
+            {
+              "nome": "Marc-Henry Soulet",
+              "funcao": "Universidade de Fribourg"
+            }
           ]
         },
         {
           "horario": "16h30-18h",
-          "titulo": "C1 – Conferência Inaugural: “La democracia atrapada por estados inciviles? Como renovar las concepciones del Desarrollo, de la Democracia y del Socialismo?”",
-          "palestrante": "Guy Bajoit (UCLouvain e RIIDE)"
+          "titulo": "C1 – Conferência Inaugural: La democracia atrapada por estados inciviles? Como renovar las concepciones del Desarrollo, de la Democracia y del Socialismo?"
         },
         {
           "horario": "18h30-20h30",
           "titulo": "Tema 1: As mudanças no Estado de Direito e no Estado Social em relação aos valores",
-          "moderacao": "Ana Glinfskoi Thé (Unimontes)",
-          "palestras": [
+          "participantes": [
             {
-              "codigo": "C2",
-              "palestrante": "Manuel Lisboa (CICS.NOVA, NOVA, FCSH e RIIDE)",
+              "moderador": true,
+              "nome": "Ana Glinfskoi Thé (Unimontes)",
+              "funcao": "Moderadora"
+            },
+            {
+              "nome": "Manuel Lisboa (CICS.NOVA, NOVA, FCSH e RIIDE)",
+              "funcao": "C2",
               "tema": "A metamorfose do Estado Social: As políticas públicas sobre violência doméstica e de género em Portugal"
             },
             {
-              "codigo": "C3",
-              "palestrante": "Michel Messu (Université de Nantes – França e RIIDE)",
+              "nome": "Michel Messu (Université de Nantes – França e RIIDE)",
+              "funcao": "C3",
               "tema": "Os valores do Estado de direito equivocados: dos valores universais aos valores conflitantes de comunidades emergentes"
             }
           ]
@@ -56,8 +74,8 @@
       ]
     },
     {
-      "id": "dia2",
-      "data": "2025-08-13",
+      "id": "day2",
+      "nome": "Dia 13",
       "programacao": [
         {
           "horario": "8h30-19h",
@@ -66,21 +84,25 @@
         {
           "horario": "8h30-11h30",
           "titulo": "Tema 2: A genealogia da questão moral na tradição dos estados modernos",
-          "moderacao": "Elton Dias Xavier (Unimontes)",
-          "palestras": [
+          "participantes": [
             {
-              "codigo": "C4",
-              "palestrante": "Gilmar Antônio Bedin (UNIJUÍ e RIIDE)",
+              "moderador": true,
+              "nome": "Elton Dias Xavier (Unimontes)",
+              "funcao": "Moderador"
+            },
+            {
+              "nome": "Gilmar Antônio Bedin (UNIJUÍ e RIIDE)",
+              "funcao": "C4",
               "tema": "A construção da ordem política moderna e a democracia: o papel fundante da utopia do consenso"
             },
             {
-              "codigo": "C5",
-              "palestrante": "Laurindo Mekie Pereira (Unimontes e RIIDE)",
+              "nome": "Laurindo Mekie Pereira (Unimontes e RIIDE)",
+              "funcao": "C5",
               "tema": "A política fundamentada na confiança: hegemonias e contra-hegemonias"
             },
             {
-              "codigo": "C6",
-              "palestrante": "Gilmar Ribeiro dos Santos (Unimontes)",
+              "nome": "Gilmar Ribeiro dos Santos (Unimontes)",
+              "funcao": "C6",
               "tema": "A crise do Estado liberal no enfrentamento das desigualdades sociais"
             }
           ]
@@ -96,35 +118,39 @@
         {
           "horario": "16h-19h",
           "titulo": "Tema 3: A responsabilidade do Estado entre a ação política e o dever moral",
-          "moderacao": "Cecília Dionísio (Instituto de Segurança Social/ISS – Portugal)",
-          "palestras": [
+          "participantes": [
             {
-              "codigo": "C7",
-              "palestrante": "Antônio Dimas Cardoso (Unimontes e RIIDE)",
+              "moderador": true,
+              "nome": "Cecília Dionísio (Instituto de Segurança Social/ISS – Portugal)",
+              "funcao": "Moderadora"
+            },
+            {
+              "nome": "Antônio Dimas Cardoso (Unimontes e RIIDE)",
+              "funcao": "C7",
               "tema": "A moral do Estado sob a dimensão da luta por reconhecimento"
             },
             {
-              "codigo": "C8",
-              "palestrante": "Lindomar Wessler Boneti (PUC-PR e RIIDE)",
+              "nome": "Lindomar Wessler Boneti (PUC-PR e RIIDE)",
+              "funcao": "C8",
               "tema": "O dever moral como retórica argumentativa na disputa pela elaboração e implementação de uma política pública"
             },
             {
-              "codigo": "C9",
-              "palestrante": "Vivianne Châtel (Universidade de Fribourg e RIIDE)",
-              "tema": "La morale de l’Etat: une boussole en dérive?"
+              "nome": "Vivianne Châtel (Universidade de Fribourg e RIIDE)",
+              "funcao": "C9",
+              "tema": "La morale de l’État: une boussole en dérive?"
             }
           ]
         },
         {
           "horario": "19h-20h30",
-          "titulo": "C10 – Conferência: “O papel do Estado na avaliação e regulação da qualidade educacional: moralidade, equidade e impacto nas políticas públicas”",
+          "titulo": "C10 – Conferência: O papel do Estado na avaliação e regulação da qualidade educacional: moralidade, equidade e impacto nas políticas públicas",
           "palestrante": "Ricardo Magalhães Dias Cardozo (INEP)"
         }
       ]
     },
     {
-      "id": "dia3",
-      "data": "2025-08-14",
+      "id": "day3",
+      "nome": "Dia 14",
       "programacao": [
         {
           "horario": "8h30-19h",
@@ -133,21 +159,25 @@
         {
           "horario": "10h-13h",
           "titulo": "Tema 4: A relação aos valores dos modelos de gestão econômicos e sociais",
-          "moderacao": "Christine Veloso Barbosa Araújo (Unimontes e RIIDE)",
-          "palestras": [
+          "participantes": [
             {
-              "codigo": "C11",
-              "palestrante": "Jordi Estivill (Universidade de Barcelona e RIIDE)",
+              "moderador": true,
+              "nome": "Christine Veloso Barbosa Araújo (Unimontes e RIIDE)",
+              "funcao": "Moderadora"
+            },
+            {
+              "nome": "Jordi Estivill (Universidade de Barcelona e RIIDE)",
+              "funcao": "C11",
               "tema": "A montanha e o rio: as relações entre Estado e a economia social e solidária"
             },
             {
-              "codigo": "C12",
-              "palestrante": "Maria Railma Alves (Unimontes)",
+              "nome": "Maria Railma Alves (Unimontes)",
+              "funcao": "C12",
               "tema": "Lutas e valores contra as desigualdades e discriminações étnico-raciais sob a lente do Observatório Regional no Norte de Minas Gerais"
             },
             {
-              "codigo": "C13",
-              "palestrante": "Richardson Xavier Brant (Unimontes/TJMG)",
+              "nome": "Richardson Xavier Brant (Unimontes/TJMG)",
+              "funcao": "C13",
               "tema": "Intervenção social em rede como meio de regulação frente à função normativa dos instrumentos legais e aos valores de comunidades"
             }
           ]
@@ -159,21 +189,25 @@
         {
           "horario": "16h-19h",
           "titulo": "Tema 5: Os dilemas morais dos níveis de execução das políticas públicas",
-          "moderacao": "Maria Alice Silveira (Unimontes)",
-          "palestras": [
+          "participantes": [
             {
-              "codigo": "C14",
-              "palestrante": "Casimiro Balsa (CICS.NOVA, NOVA, FCSH e RIIDE)",
+              "moderador": true,
+              "nome": "Maria Alice Silveira (Unimontes)",
+              "funcao": "Moderadora"
+            },
+            {
+              "nome": "Casimiro Balsa (CICS.NOVA, NOVA, FCSH e RIIDE)",
+              "funcao": "C14",
               "tema": "O estado da moral e a moral do Estado – Análise das representações e dos referenciais políticos sobre o consumo de substâncias psicoativas em Portugal"
             },
             {
-              "codigo": "C15",
-              "palestrante": "Geraldo Reis (Unimontes)",
+              "nome": "Geraldo Reis (Unimontes)",
+              "funcao": "C15",
               "tema": "A importância da política de assistência social para os municípios de pequeno porte do Norte de Minas Gerais"
             },
             {
-              "codigo": "C16",
-              "palestrante": "Desembargador Lailson Braga Baeta Neves (TJMG)",
+              "nome": "Desembargador Lailson Braga Baeta Neves (TJMG)",
+              "funcao": "C16",
               "tema": "Garantia de direitos fundamentais e controle da Administração Pública na execução de políticas públicas"
             }
           ]
@@ -185,8 +219,8 @@
       ]
     },
     {
-      "id": "dia4",
-      "data": "2025-08-15",
+      "id": "day4",
+      "nome": "Dia 15",
       "programacao": [
         {
           "horario": "8h30-19h",
@@ -203,21 +237,25 @@
         {
           "horario": "10h-13h",
           "titulo": "Tema 6: Política educacional e pedagogia para uma intervenção centrada em comunidades locais e interioranas",
-          "moderacao": "Marcos Esdras Leite (Unimontes)",
-          "palestras": [
+          "participantes": [
             {
-              "codigo": "C17",
-              "palestrante": "Joaquina Nobre da Silva (IFNMG)",
+              "moderador": true,
+              "nome": "Marcos Esdras Leite (Unimontes)",
+              "funcao": "Moderador"
+            },
+            {
+              "nome": "Joaquina Nobre da Silva (IFNMG)",
+              "funcao": "C17",
               "tema": "Estratégias e ações de promoção da justiça social em municípios do Norte de Minas Gerais/Brasil sob atuação do IFNMG"
             },
             {
-              "codigo": "C18",
-              "palestrante": "Hellen Vivian Moreira dos Anjos (IFNMG)",
+              "nome": "Hellen Vivian Moreira dos Anjos (IFNMG)",
+              "funcao": "C18",
               "tema": "Atuação docente nas comunidades sob a égide das políticas de promoção da Equidade"
             },
             {
-              "codigo": "C19",
-              "palestrante": "Rogério Roque Amaro (IUL e RIIDE)",
+              "nome": "Rogério Roque Amaro (IUL e RIIDE)",
+              "funcao": "C19",
               "tema": "Dos valores do Estado Social à dimensão ética da Governança Partilhada e Participativa do século XXI"
             }
           ]
@@ -225,23 +263,31 @@
         {
           "horario": "14h-17h",
           "titulo": "Tema 7: Políticas públicas sob proposição e julgamento do Parlamento e Poder Judiciário em Minas Gerais",
-          "moderacao": "Narciso Ferreira dos Santos Neto (Unimontes) e Cláudia Maia (Unimontes e RIIDE)",
-          "palestras": [
+          "participantes": [
             {
-              "codigo": "C20",
-              "palestrante": "Deputada Leninha Alves de Sousa, 1ª Vice-Presidente da Assembleia Legislativa de Minas Gerais",
+              "moderador": true,
+              "nome": "Narciso Ferreira dos Santos Neto (Unimontes)",
+              "funcao": "Moderador"
+            },
+            {
+              "nome": "Cláudia Maia (Unimontes e RIIDE)",
+              "funcao": "Co-Moderadora"
+            },
+            {
+              "nome": "Deputada Leninha Alves de Sousa, 1ª Vice-Presidente da Assembleia Legislativa de Minas Gerais",
+              "funcao": "C20",
               "tema": "Democracia e políticas públicas na prática parlamentar"
             },
             {
-              "codigo": "C21",
-              "palestrante": "Desembargador Rogério Medeiros, 3º Vice-Presidente do Tribunal de Justiça do Estado de Minas Gerais",
+              "nome": "Desembargador Rogério Medeiros, 3º Vice-Presidente do Tribunal de Justiça do Estado de Minas Gerais",
+              "funcao": "C21",
               "tema": "Moralidade na atuação dos Poderes Públicos"
             }
           ]
         },
         {
           "horario": "17h30-19h",
-          "titulo": "C22 – Conferência de Encerramento: “La Morale de l’Etat est-elle morale?”",
+          "titulo": "C22 – Conferência de Encerramento: La Morale de l’État est-elle morale?",
           "palestrante": "Marc-Henry Soulet (Universidade de Fribourg e RIIDE)"
         },
         {
@@ -252,4 +298,3 @@
     }
   ]
 }
-
