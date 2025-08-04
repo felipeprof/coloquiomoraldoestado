@@ -113,24 +113,14 @@
           ]
         },
         {
-          "horario": "13h-15h",
-          "titulo": "Minicurso – Professor Rogério Roque Amaro"
+          "horario": "14h-16h",
+          "titulo": "Minicurso – Território e Economia Solidária: abordagens críticas para o desenvolvimento local sustentável",
+          "palestrante": "Rogério Roque Amaro"
         },
         {
-          "horario": "13h-15h",
-          "titulo": "Minicurso – Professor Guy Bajoit"
-        },
-        {
-          "horario": "13h-15h",
-          "titulo": "Minicurso – Professor Marc-Henry Soulet"
-        },
-        {
-          "horario": "13h-15h",
-          "titulo": "Minicurso – Professor Michel Messu"
-        },
-        {
-          "horario": "13h-15h",
-          "titulo": "Minicurso – Professora Cecília Dionísio"
+          "horario": "14h-16h",
+          "titulo": "Minicurso – Desenvolvimento ético e sustentável: sonhar é preciso",
+          "palestrante": "Guy Bajoit"
         },
         {
           "horario": "14h-15h30",
@@ -205,7 +195,8 @@
         },
         {
           "horario": "14h-16h",
-          "titulo": "Minicurso – Professora: Vivianne Châtel"
+          "titulo": "Minicurso – Desenvolvimento: um processo civilizador?",
+          "palestrante": "Vivianne Châtel"
         },
         {
           "horario": "14h-17h",
