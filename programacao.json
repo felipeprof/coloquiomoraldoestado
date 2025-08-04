@@ -9,12 +9,16 @@
           "titulo": "Credenciamento e Acolhimento"
         },
         {
-          "horario": "9h-12h",
+          "horario": "8h30-12h",
           "titulo": "Sessões para apresentação de Comunicações Orais nos Grupos de Trabalhos (GTs)"
         },
         {
           "horario": "9h-12h",
           "titulo": "Lançamento de Livros – Sessão 1"
+        },
+        {
+          "horario": "9h30-11h30",
+          "titulo": "Minicurso – Professor: Casimiro Balsa"
         },
         {
           "horario": "13h-16h",
@@ -109,7 +113,23 @@
         },
         {
           "horario": "13h-15h",
-          "titulo": "Minicursos / Podcasts"
+          "titulo": "Minicurso – Professor Rogério Roque Amaro"
+        },
+        {
+          "horario": "13h-15h",
+          "titulo": "Minicurso – Professor Guy Bajoit"
+        },
+        {
+          "horario": "13h-15h",
+          "titulo": "Minicurso – Professor Marc-Henry Soulet"
+        },
+        {
+          "horario": "13h-15h",
+          "titulo": "Minicurso – Professor Michel Messu"
+        },
+        {
+          "horario": "13h-15h",
+          "titulo": "Minicurso – Professora Cecília Dionísio"
         },
         {
           "horario": "14h-15h30",
@@ -184,6 +204,10 @@
         },
         {
           "horario": "14h-16h",
+          "titulo": "Minicurso – Professora: Vivianne Châtel"
+        },
+        {
+          "horario": "14h-17h",
           "titulo": "Sessões para apresentação de Comunicações Orais nos Grupos de Trabalhos (GTs)"
         },
         {
@@ -225,10 +249,6 @@
         {
           "horario": "8h30-19h",
           "titulo": "Credenciamento e Acolhimento"
-        },
-        {
-          "horario": "8h-10h",
-          "titulo": "Minicursos / Podcasts"
         },
         {
           "horario": "8h-9h30",
