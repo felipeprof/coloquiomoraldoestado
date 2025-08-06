@@ -113,14 +113,24 @@
           ]
         },
         {
-          "horario": "14h-16h",
+          "horario": "13h-15h",
           "titulo": "Minicurso – Território e Economia Solidária: abordagens críticas para o desenvolvimento local sustentável",
           "palestrante": "Rogério Roque Amaro"
         },
         {
-          "horario": "14h-16h",
+          "horario": "13h-15h",
           "titulo": "Minicurso – Desenvolvimento ético e sustentável: sonhar é preciso",
           "palestrante": "Guy Bajoit"
+        },
+        {
+          "horario": "13h-15h",
+          "titulo": "Minicurso – Sistema de Segurança Social Português, com enfoque na Ação Social",
+          "palestrante": "Cecília Dionísio"
+        },
+        {
+          "horario": "13h-15h",
+          "titulo": "Minicurso – A vida em comum posta à prova das individualidades e das comunidades",
+          "palestrante": "Marc-Henry Soulet"
         },
         {
           "horario": "14h-15h30",
@@ -199,7 +209,12 @@
           "palestrante": "Vivianne Châtel"
         },
         {
-          "horario": "14h-17h",
+          "horario": "14h-16h",
+          "titulo": "Minicurso – Desafios Sociológicos da ordem democrática",
+          "palestrante": "Michel Messu"
+        },
+        {
+          "horario": "14h-16h",
           "titulo": "Sessões para apresentação de Comunicações Orais nos Grupos de Trabalhos (GTs)"
         },
         {
