@@ -119,7 +119,7 @@
         },
         {
           "horario": "13h-15h",
-          "titulo": "Minicurso – Desenvolvimento ético e sustentável: sonhar é preciso",
+          "titulo": "Minicurso – Introdução teórica geral em Sociologia",
           "palestrante": "Guy Bajoit"
         },
         {
@@ -202,11 +202,6 @@
               "tema": "Intervenção social em rede como meio de regulação frente à função normativa dos instrumentos legais e aos valores de comunidades"
             }
           ]
-        },
-        {
-          "horario": "14h-16h",
-          "titulo": "Minicurso – Desenvolvimento: um processo civilizador?",
-          "palestrante": "Vivianne Châtel"
         },
         {
           "horario": "14h-16h",
@@ -312,6 +307,12 @@
             }
           ]
         },
+        {
+          "horario": "14h-16h",
+          "titulo": "Minicurso – Desenvolvimento: um processo civilizador?",
+          "palestrante": "Vivianne Châtel"
+        },
+
         {
           "horario": "17h30-19h",
           "titulo": "C22 – Conferência de Encerramento: La Morale de l’État est-elle morale?",
